@@ -8,6 +8,10 @@ The system combines structured client assessments with AI-assisted workout gener
 
 FRANKIE is designed as a single-trainer operational tool rather than a SaaS platform.
 
+"Why is it named Frankie?" 
+
+I'm glad you asked. My husband, Frankie, is a personal trainer. The amount of papers he carries around on a clipboard is insane and I wanted to make his job just a little bit easier. 
+
 
 ## Features
 
