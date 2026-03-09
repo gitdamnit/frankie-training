@@ -11,7 +11,7 @@ const openai = new OpenAI({
 // Load exercise library (a subset for AI prompting)
 let exerciseLibrary: any[] = [];
 try {
-  const exerciseFile = path.join(process.cwd(), "data", "exercises_canonical_1772475505329.jsonl");
+  const exerciseFile = path.join(process.cwd(), "server", "data", "exercises.jsonl");
   if (fs.existsSync(exerciseFile)) {
     const lines = fs.readFileSync(exerciseFile, "utf-8").split("\n").filter(Boolean);
     exerciseLibrary = lines.slice(0, 300).map(l => JSON.parse(l));
