@@ -1,6 +1,7 @@
 # FRANKIE
+## Fitness, Results, Analytics, Nutrition, Knowledge, Intelligent Engine
 
-Fitness, Results, Analytics, Nutrition, Knowledge, Intelligent Engine
+<img width="701" height="531" alt="image" src="https://github.com/user-attachments/assets/99e342d5-487a-4ed6-b69c-d709191030fa" />
 
 FRANKIE is a private AI-powered training management system designed for personal trainers to automate client intake, program generation, progress tracking, and session logging.
 
@@ -12,6 +13,7 @@ FRANKIE is designed as a single-trainer operational tool rather than a SaaS plat
 
 I'm glad you asked. My husband, Frankie, is a personal trainer. The amount of papers he carries around on a clipboard is insane and I wanted to make his job just a little bit easier. 
 
+<img width="706" height="535" alt="Screenshot 2026-03-22 050816" src="https://github.com/user-attachments/assets/71bc491c-541e-4334-a080-82e21f88819d" />
 
 ## Features
 
@@ -24,6 +26,7 @@ I'm glad you asked. My husband, Frankie, is a personal trainer. The amount of pa
 • Role-based authentication for trainer access  
 • Clean React interface with dark/light mode support
 
+<img width="708" height="1377" alt="2EvjW8iru3" src="https://github.com/user-attachments/assets/fb07fb6d-b57a-4b9a-a588-f60e35bcd40f" />
 
 ## Tech Stack
 
@@ -46,9 +49,9 @@ OpenAI GPT-4o
 
 ## Status
 
-Active prototype / personal tool.
+Actively testing prototype. Waiting for Hubby to let me know what else he wants, doesn't want, would like, who knows.
 
-The system is currently designed for single-trainer use but could be extended into a multi-tenant platform.
+Although this system is was designed for single personal trainer but it could easily be extended into a multi-tenant platform.
 
 
 
