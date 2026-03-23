@@ -26,9 +26,10 @@ I'm glad you asked. My husband, Frankie, is a personal trainer. The amount of pa
 • Role-based authentication for trainer access  
 • Clean React interface with dark/light mode support
 
-<img width="708" height="1377" alt="2EvjW8iru3" src="https://github.com/user-attachments/assets/fb07fb6d-b57a-4b9a-a588-f60e35bcd40f" />
 
-## Tech Stack
+
+
+## Stack
 
 Frontend
 React 18 + TypeScript  
